@@ -1,0 +1,19 @@
+body{
+    background-color: yellow;
+    
+}
+.welcome{
+    text-align: center;
+    color: rgb(117, 12, 12);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    
+    
+}
+.between{
+   text-align: center;
+   font-size: 30px;
+   font-family: 'Times New Roman', Times, serif;
+   color: rgb(117,12,12);
+   
+}
